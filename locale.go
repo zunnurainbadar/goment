@@ -4,7 +4,7 @@ import (
 	"errors"
 	"strings"
 
-	"github.com/nleeper/goment/locales"
+	"github.com/zunnurainbadar/goment/locales"
 )
 
 // DefaultLocaleCode is the default locale used by Goment if not set.
@@ -14,7 +14,7 @@ var supportedLocales = map[string]locales.LocaleDetails{
 	"en":    locales.EnLocale,
 	"es":    locales.EsLocale,
 	"fr":    locales.FrLocale,
-	"fa":	 locales.FaLocale,
+	"fa":    locales.FaLocale,
 	"pt-br": locales.PtBRLocale,
 	"id":    locales.IdLocale,
 	"ru":    locales.RuLocale,

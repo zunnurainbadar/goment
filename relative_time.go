@@ -3,7 +3,7 @@ package goment
 import (
 	"math"
 
-	"github.com/nleeper/goment/locales"
+	"github.com/zunnurainbadar/goment/locales"
 )
 
 var thresholds = map[string]int{

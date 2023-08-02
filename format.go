@@ -6,9 +6,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/nleeper/goment/locales"
-	"github.com/nleeper/goment/regexps"
 	"github.com/tkuchiki/go-timezone"
+	"github.com/zunnurainbadar/goment/locales"
+	"github.com/zunnurainbadar/goment/regexps"
 )
 
 type formatReplacementFunc func(*Goment) string

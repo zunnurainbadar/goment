@@ -7,8 +7,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/nleeper/goment/locales"
-	"github.com/nleeper/goment/regexps"
+	"github.com/zunnurainbadar/goment/locales"
+	"github.com/zunnurainbadar/goment/regexps"
 )
 
 var yearIdx = 0
